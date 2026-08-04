@@ -12,7 +12,7 @@ export function Footer() {
       <Container as="div" className="py-12 sm:py-16">
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-2">
-            <p className="font-display text-2xl text-bistro-cream">A.S. Bistro</p>
+            <p className="font-display text-2xl text-bistro-cream">B&C Luxery</p>
             <p className="mt-3 max-w-md text-sm leading-relaxed text-bistro-cream-muted">
               A candlelit room, a lively bar, and plates made for lingering.
               Seasonal cooking with a city pulse — reservations recommended.
@@ -70,7 +70,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col gap-4 border-t border-white/10 pt-8 text-xs text-bistro-cream-muted sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} A.S. Bistro. Demo site — not a real venue.</p>
+          <p>© {new Date().getFullYear()} B&C Luxery. Demo site — not a real venue.</p>
           <div className="flex gap-6">
             <Link to="/menu" className="hover:text-bistro-cream">
               Menu

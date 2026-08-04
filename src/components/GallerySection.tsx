@@ -9,7 +9,7 @@ export function GallerySection() {
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.28em] text-bistro-orange">
-              @as.bistro
+              @bc.luxery
             </p>
             <h2 className="mt-2 font-display text-3xl text-bistro-cream sm:text-4xl">
               From the pass &amp; the floor

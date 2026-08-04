@@ -17,7 +17,7 @@ export function About() {
                 A small restaurant with a big sense of occasion.
               </h1>
               <p className="mt-5 text-sm leading-relaxed text-bistro-cream-muted sm:text-base">
-                A.S. Bistro began as a pop-up supper club — long tables, vinyl
+                B&C Luxery began as a pop-up supper club — long tables, vinyl
                 records, and recipes scribbled on the backs of wine boxes. When
                 we found this Mercer Street room, we kept the spirit: low
                 pretense, high craft, and a team that treats strangers like

@@ -54,7 +54,7 @@ export function Navbar() {
             onClick={() => setOpen(false)}
           >
             <span className="font-display text-xl tracking-tight text-bistro-cream transition group-hover:text-bistro-orange sm:text-2xl">
-              A.S. Bistro
+              B&C Luxery
             </span>
             <span className="text-[10px] font-light uppercase tracking-[0.28em] text-bistro-cream-muted">
               Urban kitchen

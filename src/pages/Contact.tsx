@@ -72,7 +72,7 @@ export function Contact() {
               className="overflow-hidden rounded-3xl border border-white/10 shadow-card"
             >
               <iframe
-                title="A.S. Bistro neighborhood map"
+                title="B&C Luxery neighborhood map"
                 className="h-72 w-full grayscale contrast-[1.05] sm:h-full sm:min-h-[420px]"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
